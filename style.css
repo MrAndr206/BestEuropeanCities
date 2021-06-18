@@ -1,0 +1,34 @@
+body{
+    margin: 0;    
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+border-radius: 30px;
+
+ .first__div { /* В таких знаках в css указываются комментарии */
+    padding: 10px 0; /* Описать что это за характеристика */
+    border-bottom: 5px solid #433; /* Задаём границу только для нижней части. Так же можно задавать для всех сторон (top, right, left)  */
+
+    height: 30px; /* Описать что это за характеристика */ 
+    width: 100%; /* Описать что это за характеристика */ 
+
+    background-color: Aquamarine; /* Описать что это за характеристика */ 
+    text-align: center; /* Описать что это за характеристика */ 
+ 
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+    box-shadow: inset 2px 2px 5px rgba(154, 147, 140, 0.5), 1px 1px 5px rgba(255, 255, 255, 1);
+    
+}
+
+    
+
+img{
+     border-radius: 30px;
+}
